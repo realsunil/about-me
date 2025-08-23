@@ -11,14 +11,14 @@ Welcome to my digital zone! I create bots, build websites, edit videos, and run 
 - 🧑‍💻 Discord Profile: `realsunil`
 - 📧 Email: hustlewithsunil@gmail.com
 - 📷 YouTube: [@sunilgaming_op](https://youtube.com/@sunilgaming_op)
-- 📷 YouTube: [@Botsync](https://youtube.com/@BotSync)
+- 📷 YouTube: [@BotSync](https://youtube.com/@BotSync)
 - 🛍️ Gumroad Store: [sunilgaming.gumroad.com](https://sunilgaming.gumroad.com)
 
 ---
 
 ### 👤 Live Discord Profile
 
-[![Discord Status](https://lanyard.cnrad.dev/api/YOUR_DISCORD_USER_ID?theme=dark&animated=true&hideDiscriminators=false&borderRadius=10px)](https://discord.com/users/1148093915493306452)
+[![Discord Status](https://lanyard.cnrad.dev/api/1148093915493306452?theme=dark&animated=true&hideDiscriminators=false&borderRadius=10px)](https://discord.com/users/1148093915493306452)
 
 ---
 
@@ -36,11 +36,23 @@ Welcome to my digital zone! I create bots, build websites, edit videos, and run 
 
 ### 📈 GitHub Stats
 
-![Sunil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sunil-gaming&show_icons=true&theme=tokyonight&hide=contribs,prs)
+![Sunil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=realsunil&show_icons=true&theme=tokyonight&hide=contribs,prs)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sunil-gaming&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=realsunil&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=sunil-gaming&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=realsunil&theme=tokyonight)
+
+---
+
+### 🏆 GitHub Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=realsunil&theme=tokyonight&row=1&margin-w=10&margin-h=10)
+
+---
+
+### ✨ Dynamic Typing About Me
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&width=600&lines=Full-stack+Web+Developer;Discord+Bot+Creator;Minecraft+Server+Builder;Video+Editor+%26+Content+Creator)](https://git.io/typing-svg)
 
 ---
 
@@ -49,7 +61,12 @@ Welcome to my digital zone! I create bots, build websites, edit videos, and run 
 - 🎬 I edit with Premiere Pro, Photoshop & DaVinci Resolve  
 - 🕹️ I run a Minecraft SMP with survival plugins & fun features  
 - 🤖 I make custom Discord bots for events, gen bots, and utility  
-- 💡 I'm always exploring new tech & creative ideas
+- 💡 I'm always exploring new tech & creative ideas  
+
+---
+
+### 📊 Profile Views
+![Visitor Count](https://komarev.com/ghpvc/?username=realsunil&color=blueviolet&style=for-the-badge)
 
 ---
 
