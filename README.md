@@ -43,12 +43,18 @@ Welcome to my digital zone! I create bots, build websites, edit videos, and run 
 ![GitHub Streak](https://streak-stats.demolab.com?user=realsunil&theme=tokyonight)
 
 ---
+---
 
-### 🏆 GitHub Trophies
+### 🏅 GitHub Achievements
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=realsunil&theme=tokyonight&row=1&margin-w=10&margin-h=10)
+<p align="left">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="70" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="70" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="70" />
+</p>
 
 ---
+
 
 ### ✨ Dynamic Typing About Me
 
