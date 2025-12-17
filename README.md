@@ -47,7 +47,7 @@ Welcome to my digital zone! I create bots, build websites, edit videos, and run 
 
 ### 🏅 GitHub Achievements
 
-<<p align="left">
+<p align="left">
   <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="70" />
   <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="70" />
   <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="70" />
