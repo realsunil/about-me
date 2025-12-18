@@ -1,81 +1,110 @@
-# 👋 Hi, I'm Sunil Kumar
+<!-- ===================== HEADER ===================== -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=800&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+👋+I'm+Sunil+Kumar;Minecraft+%26+Discord+Developer;Web+Developer+%7C+Video+Editor;Building+Cool+Things+Everyday+🚀" />
+</p>
 
-🎮 Minecraft & Discord Developer | 🎥 Video Editor | 🌐 Web Developer  
-Welcome to my digital zone! I create bots, build websites, edit videos, and run cool online communities.
-
----
-
-### 🔗 Connect With Me
-
-- 💬 Discord Server: [discord.gg/pc3hazBxBB](https://discord.gg/pc3hazBxBB)
-- 🧑‍💻 Discord Profile: `realsunil`
-- 📧 Email: hustlewithsunil@gmail.com
-- 📷 YouTube: [@sunilgaming_op](https://youtube.com/@sunilgaming_op)
-- 📷 YouTube: [@BotSync](https://youtube.com/@BotSync)
-- 🛍️ Gumroad Store: [sunilgaming.gumroad.com](https://sunilgaming.gumroad.com)
-
----
-
-### 👤 Live Discord Profile
-
-[![Discord Status](https://lanyard.cnrad.dev/api/1148093915493306452?theme=dark&animated=true&hideDiscriminators=false&borderRadius=10px)](https://discord.com/users/1148093915493306452)
-
----
-
-### 🛠️ Languages & Tools
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?logo=adobephotoshop&logoColor=white)
-![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?logo=adobepremierepro&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-
----
-
-### 📈 GitHub Stats
-
-![Sunil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=realsunil&show_icons=true&theme=tokyonight&hide=contribs,prs)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=realsunil&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=realsunil&theme=tokyonight)
-
----
----
-
-### 🏅 GitHub Achievements
-
-<p align="left">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="70" />
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="70" />
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="70" />
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="70" />
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
 </p>
 
 ---
 
+## 🧑‍💻 About Me
 
-### ✨ Dynamic Typing About Me
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&width=600&lines=Full-stack+Web+Developer;Discord+Bot+Creator;Minecraft+Server+Builder;Video+Editor+%26+Content+Creator)](https://git.io/typing-svg)
-
----
-
-### 💡 Fun Facts
-
-- 🎬 I edit with Premiere Pro, Photoshop & DaVinci Resolve  
-- 🕹️ I run a Minecraft SMP with survival plugins & fun features  
-- 🤖 I make custom Discord bots for events, gen bots, and utility  
-- 💡 I'm always exploring new tech & creative ideas  
+🎮 **Minecraft & Discord Developer** | 🎥 **Video Editor** | 🌐 **Web Developer**  
+Welcome to my **digital zone** 🚀  
+I build bots, craft websites, edit cinematic videos, and run awesome online communities.
 
 ---
 
-### 📊 Profile Views
-![Visitor Count](https://komarev.com/ghpvc/?username=realsunil&color=blueviolet&style=for-the-badge)
+## 🔗 Connect With Me
+
+<p align="center">
+  <a href="https://discord.gg/pc3hazBxBB">
+    <img src="https://img.shields.io/badge/Discord%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+  <a href="https://youtube.com/@sunilgaming_op">
+    <img src="https://img.shields.io/badge/YouTube-SunilGaming-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+  <a href="https://youtube.com/@BotSync">
+    <img src="https://img.shields.io/badge/YouTube-BotSync-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+  <a href="mailto:hustlewithsunil@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-0A66C2?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-**Thanks for visiting! 🙌**  
-Give a ⭐️ if you like any of my projects!
+## 👤 Live Discord Profile
+
+<p align="center">
+  <img src="https://lanyard.cnrad.dev/api/1148093915493306452?theme=dark&animated=true&hideDiscriminators=false&borderRadius=15px" />
+</p>
+
+---
+
+## 🛠️ Languages & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,nodejs,html,css,git,github,discord,photoshop,premiere&theme=dark"/>
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=realsunil&show_icons=true&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=realsunil&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=realsunil&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🏅 GitHub Achievements
+
+<p align="center">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="70"/>
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="70"/>
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="70"/>
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="70"/>
+</p>
+
+---
+
+## ✨ What I Do (Animated)
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&width=700&lines=Discord+Bot+Creator+🤖;Minecraft+Server+Developer+🎮;Full-Stack+Web+Developer+🌐;Video+Editor+%26+Content+Creator+🎥"/>
+</p>
+
+---
+
+## 💡 Fun Facts
+
+- 🎬 I edit with **Premiere Pro, Photoshop & DaVinci Resolve**
+- 🕹️ I run **Minecraft SMP servers** with custom plugins
+- 🤖 I build **Gen bots, utility bots & event bots**
+- 🚀 Always learning, building & leveling up
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=realsunil&style=for-the-badge&color=blueviolet"/>
+</p>
+
+---
+
+<p align="center">
+  <b>Thanks for visiting 🙌</b><br>
+  ⭐ Star any project you like — it really helps!
+</p>
