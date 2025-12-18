@@ -1,23 +1,32 @@
-<!-- ===================== HEADER ===================== -->
+<!-- ===================== HERO ===================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=800&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+👋+I'm+Sunil+Kumar;Minecraft+%26+Discord+Developer;Web+Developer+%7C+Video+Editor;Building+Cool+Things+Everyday+🚀" />
+  <img src="https://raw.githubusercontent.com/DenverCoder1/readme-typing-svg/main/demo.gif" width="700" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="420" />
 </p>
 
----
-
-## 🧑‍💻 About Me
-
-🎮 **Minecraft & Discord Developer** | 🎥 **Video Editor** | 🌐 **Web Developer**  
-Welcome to my **digital zone** 🚀  
-I build bots, craft websites, edit cinematic videos, and run awesome online communities.
+<h2 align="center">
+🎮 Minecraft & Discord Developer • 🌐 Web Developer • 🎥 Video Editor
+</h2>
 
 ---
 
-## 🔗 Connect With Me
+## 🌟 About Me
+
+Welcome to my **digital zone 🚀**
+
+- 🤖 Discord Bot Developer (20+ bots)
+- 🕹️ Minecraft tools & servers
+- 🌐 Websites & portfolios
+- 🎬 Gaming & tech video editor
+
+Always learning. Always building. Always leveling up 💪
+
+---
+
+## 🌈 Connect With Me
 
 <p align="center">
   <a href="https://discord.gg/pc3hazBxBB">
@@ -29,22 +38,11 @@ I build bots, craft websites, edit cinematic videos, and run awesome online comm
   <a href="https://youtube.com/@BotSync">
     <img src="https://img.shields.io/badge/YouTube-BotSync-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
-  <a href="mailto:hustlewithsunil@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-0A66C2?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
 </p>
 
 ---
 
-## 👤 Live Discord Profile
-
-<p align="center">
-  <img src="https://lanyard.cnrad.dev/api/1148093915493306452?theme=dark&animated=true&hideDiscriminators=false&borderRadius=15px" />
-</p>
-
----
-
-## 🛠️ Languages & Tools
+## 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,nodejs,html,css,git,github,discord,photoshop,premiere&theme=dark"/>
@@ -52,59 +50,35 @@ I build bots, craft websites, edit cinematic videos, and run awesome online comm
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=realsunil&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=realsunil&show_icons=true&theme=radical&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=realsunil&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=realsunil&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 🏅 GitHub Achievements
-
-<p align="center">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="70"/>
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="70"/>
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="70"/>
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="70"/>
-</p>
-
----
-
-## ✨ What I Do (Animated)
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&width=700&lines=Discord+Bot+Creator+🤖;Minecraft+Server+Developer+🎮;Full-Stack+Web+Developer+🌐;Video+Editor+%26+Content+Creator+🎥"/>
+  <img src="https://streak-stats.demolab.com?user=realsunil&theme=radical&hide_border=true"/>
 </p>
 
 ---
 
 ## 💡 Fun Facts
 
-- 🎬 I edit with **Premiere Pro, Photoshop & DaVinci Resolve**
-- 🕹️ I run **Minecraft SMP servers** with custom plugins
-- 🤖 I build **Gen bots, utility bots & event bots**
-- 🚀 Always learning, building & leveling up
+- 🎮 Hardcore Minecraft player
+- 🤖 Build gen, utility & event bots
+- 🎬 Edit with Premiere Pro & Photoshop
+- 🚀 Goal: tools used by thousands
 
 ---
+### ✨ Dynamic Typing About Me 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&width=600&lines=Full-stack+Web+Developer;Discord+Bot+Creator;Minecraft+Server+Builder;Video+Editor+%26+Content+Creator)](https://git.io/typing-svg)
 
-## 👀 Profile Views
+---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=realsunil&style=for-the-badge&color=blueviolet"/>
 </p>
 
----
-
 <p align="center">
-  <b>Thanks for visiting 🙌</b><br>
-  ⭐ Star any project you like — it really helps!
+  <b>Thanks for visiting 🙌</b>
 </p>
