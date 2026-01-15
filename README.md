@@ -237,3 +237,25 @@ Content Types:
   ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
 </div>
+<!-- ===================== SPONSOR SECTION ===================== -->
+<div align="center">
+
+## 💖 Support My Work
+
+<a href="https://github.com/sponsors/realsunil">
+  <img src="https://img.shields.io/badge/Sponsor-💖%20Support%20Me-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/sponsors/realsunil">
+  <img src="https://github.com/realsunil.png" width="90" style="border-radius:50%;" alt="Sponsor Sunil"/>
+</a>
+
+<br/><br/>
+
+<b>Love my bots, servers & projects?</b><br/>
+Support me via GitHub Sponsors 🚀
+
+</div>
+
