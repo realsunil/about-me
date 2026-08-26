@@ -1,0 +1,17 @@
+{
+  "_comment": "Featured repos, in README order. Star/fork/language come live from the API on every run; the description here overrides the repo's GitHub description.",
+  "projects": [
+    {
+      "repo": "StackPilot",
+      "description": "Universal deployment platform. Upload a ZIP or paste a repo URL and it detects the framework and ships it to Vercel, Netlify, or Render, with OAuth-based deploys so the server never touches your tokens."
+    },
+    {
+      "repo": "Minecraft-afk-bot-v2",
+      "description": "Aurora, an AFK bot built on Mineflayer that actually behaves like a player: random movement, auto-eat, pathfinding, chat commands, auto-reconnect, and a live status dashboard."
+    },
+    {
+      "repo": "sunilkumar",
+      "description": "Personal portfolio site, responsive with a project showcase, skills section, and smooth-scroll animations."
+    }
+  ]
+}
